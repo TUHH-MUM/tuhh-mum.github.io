@@ -10,11 +10,11 @@ layout: splash
 excerpt: "About HippoC"
 sitemap: false
 feature_row:
-  - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
+  - image_path: pics/NATSK_547.jpg
     excerpt: "First prototype of HippoCampus."  
-  - image_path: AUV_CAD.jpg
+  - image_path: pics/NATSK_547.jpg
     excerpt: "CAD rendering of HippoCampus."
-  - image_path: AUV.JPG
+  - image_path: pics/NATSK_547.jpg
     excerpt: "Current version of HippoCampus."
 
 ---
