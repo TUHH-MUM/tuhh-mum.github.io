@@ -10,11 +10,11 @@ layout: splash
 excerpt: "About HippoC"
 sitemap: false
 feature_row:
-  - image_path: pics/NATSK_547.jpg
+  - image_path:  tuhh-mum.github.io/pics/NATSK_547.jpg
     excerpt: "First prototype of HippoCampus."  
-  - image_path: pics/NATSK_547.jpg
+  - image_path: tuhh-mum.github.io/pics/NATSK_547.jpg
     excerpt: "CAD rendering of HippoCampus."
-  - image_path: pics/NATSK_547.jpg
+  - image_path: tuhh-mum.github.io/pics/NATSK_547.jpg
     excerpt: "Current version of HippoCampus."
 
 ---
