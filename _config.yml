@@ -2,4 +2,19 @@ theme: jekyll-theme-cayman
 title: Autonomous Driving Class @MuM
 description: This is the project page of the autonomous driving class in Fall 2018
 
-<img src="pics/NATSK_547.jpg" alt="hi" class="inline"/>
+---
+
+title: "About"
+permalink: /pages/about/
+layout: splash
+excerpt: "About HippoC"
+sitemap: false
+feature_row:
+  - image_path: https://www.tuhh.de/t3resources/mum/_processed_/csm_2014-12-05_10.28.15_nocable_small_34d2a69318.jpg
+    excerpt: "First prototype of HippoCampus."  
+  - image_path: AUV_CAD.jpg
+    excerpt: "CAD rendering of HippoCampus."
+  - image_path: AUV.JPG
+    excerpt: "Current version of HippoCampus."
+
+---
