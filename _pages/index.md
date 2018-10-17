@@ -5,7 +5,7 @@ layout: splash
 excerpt: "HippoC"
 sitemap: false
 header:
-  image: \\pics/NATSK_547.jpg
+  image: pics/NATSK_547.jpg
 ---
 <h1>Autonomous Driving Class</h1>
 
