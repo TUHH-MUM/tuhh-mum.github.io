@@ -1,15 +1,6 @@
 theme: jekyll-theme-cayman
 title: Autonomous Driving Class @MuM
 header:
- image: "/pics/NATSK_547.jpg"
+ image: /pics/NATSK_547.jpg
 ---
 
-title: "About"
-permalink: /pages/about/
-layout: splash
-excerpt: "About HippoC"
-sitemap: false
-feature_row:
-
-
----
