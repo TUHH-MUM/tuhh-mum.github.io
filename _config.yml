@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Autonomous Driving Class @MuM
-description: This is the project page of the autonomous driving class in Fall 2018
 
 ---
 
@@ -9,9 +8,9 @@ permalink: /pages/about/
 layout: splash
 excerpt: "About HippoC"
 sitemap: false
+header:
+ image: pics/NATSK_547.jpg
 feature_row:
-
-<h1>Test...</h1>
 
 
 ---
