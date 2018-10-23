@@ -16,7 +16,7 @@ feature_row:
 
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-  <h1>About HippoCampus</h1>
+  <h1>About HippoCampus - TEST!!</h1>
 The HippoCampus is a micro underwater robot for research and hobby applications.
 The quad-rotor design makes HippoCampus agile and allows for complex maneuvers. 
 HippoCampus is built with off-the-shelf components and 3D-printed parts.
