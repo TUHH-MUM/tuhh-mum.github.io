@@ -5,7 +5,7 @@ layout: splash
 excerpt: "HippoC"
 sitemap: false
 header:
-  image: pics/NATSK_547.jpg
+  image:  tuhh-mum.github.io/pics/NATSK_547.jpg
 ---
 <h1>HippoCampus - Micro Underwater Robot</h1>
 {: .text-center}
