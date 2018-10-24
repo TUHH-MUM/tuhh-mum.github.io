@@ -1,6 +1,6 @@
 ---
-title: "Videos"
-permalink: /pages/videos/
+title: "Media"
+permalink: /pages/media/
 layout: splash
 excerpt: "Videos HippoC"
 sitemap: false
@@ -83,8 +83,6 @@ hr {
     </div>
       </article>
     </section>
-  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
-  <!--
 </div>
 <br>
 <div class="wrapper">
