@@ -7,7 +7,7 @@ sitemap: false
 header:
   image:  tuhh-mum.github.io/pics/NATSK_547.jpg
 ---
-<h1>HippoCampus - Micro Underwater Robot</h1>
+<h1>HFormulas and Vehicles - Autonomous driving class at TUHH</h1>
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: center">
