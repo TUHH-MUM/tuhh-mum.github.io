@@ -5,7 +5,7 @@ layout: splash
 excerpt: "HippoC"
 sitemap: false
 header:
-  image:  "https://tuhh-mum.github.io/pics/NATSK_547.jpg"
+  image:  "https://tuhh-mum.github.io/pics/NATSK_547_cropped.jpg"
 ---
 
 <h1>Formulas and Vehicles - Autonomous driving class at TUHH</h1>
