@@ -10,8 +10,8 @@ sitemap: false
 <h1>Contact</h1>
 </div>
 
-The HippoCampus project is led by Eugen Solowjow, Daniel Dücker, Axel Hackbarth, and Prof. Edwin Kreuzer of the Institute of Mechanics and Ocean Engineering, Hamburg University of Technology.
+The autonomous driving class is led by Prof. Robert Seifried, Prof. Timo Reis, Daniel Dücker and Svenja Otto of the Institute of Mechanics and Ocean Engineering, Hamburg University of Technology and of the Mathematics Department, Hamburg University.
 
-The project is supported by Deutsche Forschungsgemeinschaft (DFG) and Wissenschaft im Dialog (WiD). The support is greatly acknowledged.
+The project is supported by the Claussen-Simon-Stiftung. The support is greatly acknowledged.
 
-Email: HippoCAUV@gmail.com
+
