@@ -12,7 +12,9 @@ feature_row:
 
 
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-  <h1>About HippoCampus - TEST!!</h1>
+  <h1>About the class</h1>
+The Formulas and Vehicles class is given for the first time in the fall semester 2018/2019. It is a project based class to teach basics of autonomous driving. The students will implement their own project ideas on an autonomous race car.
+  
 The autonomous race car is built on a 1:10 chassis. Calculations are performed on a Raspberry Pi. Currently, available sensor data is obtained from the Raspberry Pi camera and an IMU.
 </div>
 <br>
