@@ -1,6 +1,6 @@
 ---
 title: "Media"
-permalink: /pages/media/
+permalink: /pages/video/
 layout: splash
 excerpt: "Videos HippoC"
 sitemap: false
