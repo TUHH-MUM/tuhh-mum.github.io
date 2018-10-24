@@ -1,5 +1,5 @@
 ---
-title: "HippoCampus"
+title: "Formulas and Vehicles"
 permalink: /
 layout: splash
 excerpt: "HippoC"
@@ -11,7 +11,7 @@ header:
 {: .text-center}
 
 <div style="margin-left:10%; margin-right:10%; text-align: center">
-HippoCampus is a micro underwater robotic platform. It is intended for autonomous environmental exploration and monitoring. This project aims to be fully open-source. You can find detailed instructions for building your own HippoCampus on this website.
+Autonomous driving class at TUHH.
 </div>
 
 
