@@ -14,8 +14,6 @@ sitemap: false
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
 <h1>Setup Instructions</h1>
 </div>
-
-
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
 <table>
   <thead>
