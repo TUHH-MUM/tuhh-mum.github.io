@@ -36,6 +36,6 @@ body{
 </div>
 <br>
 <div style="margin-left:10%; margin-right:10%; text-align: justify">
-  <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Svejna Otto</p></div>
+  <div class="box1"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Svenja Otto</p></div>
   <!-- <div class="box3"><img src="https://johtobi.github.io/images/placeholder-male.jpg"><br><p style="font-size:80%">Max Mustermann</p></div> -->
 </div>
