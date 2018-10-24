@@ -2,7 +2,7 @@
 title: "Media"
 permalink: /pages/videos/
 layout: splash
-excerpt: "Videos HippoC"
+excerpt: "Media"
 sitemap: false
 ---
 <!-- <style>
@@ -95,8 +95,6 @@ hr {
     </div>
       </article>
     </section>
-   <!-- <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
-   <!--
 </div>
 <br>
 <div class="wrapper">
