@@ -27,7 +27,6 @@ sitemap: false
       <td>2. Get the Firmware</td>
       <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/TUHH-MUM/car-firmware" class="btn btn--warning" target="_blank">Car Firmware</a></div></td>
     </tr>
-    <tr>
   </tbody>
 </table>
 </div>
