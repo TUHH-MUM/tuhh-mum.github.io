@@ -26,10 +26,6 @@ sitemap: false
   </thead>
   <tbody>
     <tr>
-      <td>1. Assemble HippoC</td>
-      <td><div style="vertical-align: middle; text-align: center;"><a href="https://docs.google.com/document/d/11WKaHUoH1xX45gRUPEUhiivS0rM51P3NbSzRF93s31c/edit?usp=sharing" class="btn btn--warning" target="_blank">Assembly Instruction</a></div></td>
-    </tr>
-    <tr>
       <td>2. Get the Firmware</td>
       <td><div style="vertical-align: middle; text-align: center;"><a href="https://github.com/EugenSol/HippoC" class="btn btn--warning" target="_blank">HippoC Firmware</a></div></td>
     </tr>
