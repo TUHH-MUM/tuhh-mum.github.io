@@ -5,7 +5,7 @@ layout: splash
 excerpt: "Videos HippoC"
 sitemap: false
 ---
-<style>
+<!-- <style>
   body{
     margin: 0;
     padding: 0;
@@ -56,7 +56,6 @@ sitemap: false
 	height:0;
   overflow:hidden;
   }
-  
   .video-container iframe, div.video-container object, div.video-container embed {
 	position:absolute;
   float:right;
@@ -65,16 +64,13 @@ sitemap: false
 	width:100%;
 	height:100%;
 } 
-
 hr {
   background-color:#000000;
   color:#000000;
   border:#000000;
   height:1px;
 }
-
 </style>
-
 <p align="center">Videos</p>
 <p line-height="3em"> </p>
 <div class="wrapper">
@@ -88,8 +84,8 @@ hr {
       </article>
     </section>
   <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
+  <!--
 </div>
-
 <br>
 <div class="wrapper">
   <header class="header"><hr><br></header>
@@ -102,10 +98,9 @@ hr {
       </article>
     </section>
    <!-- <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
+   <!--
 </div>
-
 <br>
-
 <div class="wrapper">
   <header class="header"><hr></header>
     <section class="contentwrap">
@@ -116,9 +111,7 @@ hr {
     </div>
       </article>
     </section>
-  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
 </div>
-
 <br>
 <div class="wrapper">
   <header class="header"><hr></header>
@@ -130,9 +123,7 @@ hr {
     </div>
       </article>
     </section>
-  <!--  <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
-</div>
-
+ </div>
 <br>
 <div class="wrapper">
  <header class="header"><hr></header> 
@@ -144,10 +135,9 @@ hr {
     </div>
       </article>
     </section>
-    <!-- <div class="footer"><p style="font-size: 0.5px;"><br></p><hr></div> -->
 </div>
-
 <br>
 <div class="wrapper">
  <header class="header"><hr></header> 
 </div>
+-->
